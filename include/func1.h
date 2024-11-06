@@ -3,4 +3,4 @@
 
 void foo(void);
 
-#endif // FUNC1.H
+#endif // FUNC1_H
